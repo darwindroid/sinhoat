@@ -77,7 +77,7 @@
    ],
   "Categories": [
     {
-      "name_category": "Kaffah Official",
+      "name_category": "Zumba Dance",
       "image": "file:///android_asset/image/kaffah.jpg"
     },
     {
@@ -92,10 +92,10 @@
   "Video": [
     {
       "id": 1,
-      "name_category": "Kaffah Official",
-      "title": "Bumi Syam : Tanah Para Nabi",
-      "image": "file:///android_asset/image/syam.jpg",
-      "link_video": "https:/aliendro.id/projek/alien2.mp4",
+      "name_category": "Zumba Dance",
+      "title": "For Beginners",
+      "image": "https://www.sportsclubpm.com/wp-content/uploads/2018/10/zumbadance.jpg",
+      "link_video": "https://archive.org/download/blmtwpmiv-Zumba/Zumba.mp4",
       "description": "Contoh Video 1 : Video di unggah ke hosting pribadi dengan format *.mp4, support berbagai ektensi video"
     },
     {
@@ -103,7 +103,7 @@
       "name_category": "Kaffah Official",
       "title": "Tiupan Sangsakala Hari Kiamat",
       "image": "file:///android_asset/image/sangsakala.jpg",
-      "link_video": "https://ia601509.us.archive.org/31/items/alien2_202203/alien.mp4",
+      "link_video": "https://archive.org/download/conpfl-Zumba_PlayNorthPort/Zumba_PlayNorthPort.mp4",
       "description": "Contoh Video 2 : Video di unggah ke archive.org dengan format *.mp4, support berbagai ektensi video"
     }
   ,
