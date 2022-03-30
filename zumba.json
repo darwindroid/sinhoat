@@ -37,18 +37,26 @@
     {
       "id": 1,
       "name_category": "Zumba Dance",
-      "title": "For Beginners",
+      "title": "Zumba For Beginners",
       "image": "https://www.sportsclubpm.com/wp-content/uploads/2018/10/zumbadance.jpg",
-      "link_video": "https://archive.org/download/blmtwpmiv-Zumba/Zumba.mp4",
-      "description": "Contoh Video 1 : Video di unggah ke hosting pribadi dengan format *.mp4, support berbagai ektensi video"
+      "link_video": "https://archive.org/download/dctvma-Zumba_Gold_Fitness_-_January_2021/Zumba_Gold_Fitness_-_January_2021.mp4",
+      "description": "Zumba Dance for Beginners"
     },
     {
       "id": 2,
-      "name_category": "Kaffah Official",
-      "title": "Tiupan Sangsakala Hari Kiamat",
-      "image": "file:///android_asset/image/sangsakala.jpg",
-      "link_video": "https://archive.org/download/conpfl-Zumba_PlayNorthPort/Zumba_PlayNorthPort.mp4",
-      "description": "Contoh Video 2 : Video di unggah ke archive.org dengan format *.mp4, support berbagai ektensi video"
+      "name_category": "Zumba Dance",
+      "title": "Seperti mati Lampu",
+      "image": "https://tempat.com/blog/wp-content/uploads/2019/07/ihs_0-116_15000_1__jpg_crop_jpeg-1080x648.jpeg",
+      "link_video": "https://archive.org/download/zumbasepertimatilampu5/Zumba%20Seperti%20Mati%20Lampu%205.mp4",
+      "description": "Zumba Seperti Mati lampu"
+    },
+    {
+      "id": 3,
+      "name_category": "Zumba Dance",
+      "title": "Zumba Fitness",
+      "image": "https://productimages.withfloats.com/actual/5b2b3fac0c1c510e1c7a45ee.jpg",
+      "link_video": "https://archive.org/download/dctvma-Zumba_Gold_Fitness/Zumba_Gold_Fitness.mp4",
+      "description": "Zumba Gold Fitness"
     }
   ]
 }
