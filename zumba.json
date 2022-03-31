@@ -5,8 +5,8 @@
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
       "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
       "native_for_admob_applovin":"ca-app-pub-3940256099942544/2247696110",
-      "backup_ads_banner":"db4d5e8718b97d78",
-      "backup_ads_intertitial":"518cd97722c60b52",
+      "backup_ads_banner":"db4d5e8718b97d78x",
+      "backup_ads_intertitial":"518cd97722c60b52x",
       "interval_intertitial": 1,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
@@ -38,14 +38,14 @@
       "id": 1,
       "name_category": "Zumba Dance",
       "title": "Zumba For Beginners",
-      "image": "https://www.sportsclubpm.com/wp-content/uploads/2018/10/zumbadance.jpg",
+      "image": "https://cdn-brilio-net.akamaized.net/community/2018/03/29/8520/image_1521702456_5ab3563817fde.jpg",
       "link_video": "https://archive.org/download/dctvma-Zumba_Gold_Fitness_-_January_2021/Zumba_Gold_Fitness_-_January_2021.mp4",
       "description": "Zumba Dance for Beginners"
     },
     {
       "id": 2,
       "name_category": "Zumba Dance",
-      "title": "Seperti mati Lampu",
+      "title": "Zumba Seperti mati Lampu",
       "image": "https://tempat.com/blog/wp-content/uploads/2019/07/ihs_0-116_15000_1__jpg_crop_jpeg-1080x648.jpeg",
       "link_video": "https://archive.org/download/zumbasepertimatilampu5/Zumba%20Seperti%20Mati%20Lampu%205.mp4",
       "description": "Zumba Seperti Mati lampu"
@@ -53,7 +53,7 @@
     {
       "id": 3,
       "name_category": "Zumba Dance",
-      "title": "Zumba Fitness",
+      "title": "Zumba Fitness for beginners",
       "image": "https://productimages.withfloats.com/actual/5b2b3fac0c1c510e1c7a45ee.jpg",
       "link_video": "https://archive.org/download/dctvma-Zumba_Gold_Fitness/Zumba_Gold_Fitness.mp4",
       "description": "Zumba Gold Fitness"
