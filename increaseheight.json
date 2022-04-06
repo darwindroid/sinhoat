@@ -29,53 +29,53 @@
    ],
   "Categories": [
     {
-      "name_category": "Kaffah Official",
-      "image": "file:///android_asset/image/kaffah.jpg"
+      "name_category": "Height Increase workout",
+      "image": "https://manmatters.com/blog/content/images/2021/08/how-to-increase-height-after-18.png"
     }
   ],
   "Video": [
     {
       "id": 1,
-      "name_category": "Kaffah Official",
+      "name_category": "Height Increase workout",
       "title": "About Height Increase",
-      "image": "file:///android_asset/image/syam.jpg",
+      "image": "https://manmatters.com/blog/content/images/2021/08/how-to-increase-height-after-18.png",
       "link_video": "https://archive.org/download/about-height-increase/about%20height%20increase.mp4",
-      "description": "Contoh Video 1 : Video di unggah ke hosting pribadi dengan format *.mp4, support berbagai ektensi video"
+      "description": "About Height Increase"
     },
     {
       "id": 2,
-      "name_category": "Kaffah Official",
+      "name_category": "Height Increase workout",
       "title": "Jumping jack",
-      "image": "file:///android_asset/image/sangsakala.jpg",
+      "image": "https://media-asia-cdn.oriflame.com/-/media/ID/Images/Article/wellness/2020/09/olahraga-di-rumah/Jumping_Jack.ashx?u=2009091847&la=id-ID",
       "link_video": "https://archive.org/download/jumping-jack/jumping%20jack.mp4",
-      "description": "Contoh Video 2 : Video di unggah ke archive.org dengan format *.mp4, support berbagai ektensi video"
+      "description": "Jumping jack workout video"
     }
   ,
     {
       "id": 3,
-      "name_category": "Kaffah Official",
+      "name_category": "Height Increase workout",
       "title": "Downward Dog",
-      "image": "https:/aliendro.id/uploads/demo/videoonline/taurat.jpg",
+      "image": "https://cms.sehatq.com/cdn-cgi/image/f=auto,width=480,fit=pad,background=white,quality=100/public/img/article_img/cara-melakukan-gerakan-downward-dog-yang-benar-saat-yoga-1629960224.jpg",
       "link_video": "https://archive.org/download/jumping-jack/downward%20dog.mp4",
-      "description": "Contoh Video 3 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
+      "description": "Downward Dog workout videos"
     }
     ,
     {
       "id": 4,
-      "name_category": "Kaffah Official",
+      "name_category": "Height Increase workout",
       "title": "Jumping Rope",
-      "image": "file:///android_asset/image/israel.jpg",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/group-of-people-jumping-rope-in-a-fitness-class-royalty-free-image-616122182-1565963606.jpg",
       "link_video": "https://archive.org/download/jumping-jack/jumping%20rope.mp4",
-      "description": "Contoh Video 4 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
+      "description": "Jumping Rope workout"
     }
   ,
     {
       "id": 5,
-      "name_category": "Kaffah Official",
+      "name_category": "Height Increase workout",
       "title": "Drink Milk",
-      "image": "file:///android_asset/image/khandak.jpg",
+      "image": "https://www.thelist.com/img/gallery/what-happens-to-your-body-when-you-drink-milk-every-day/intro-1513196522.jpg",
       "link_video": "https://archive.org/download/jumping-jack/drink%20milk.mp4",
-      "description": "Contoh Video 5 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
+      "description": "nutrition for increase height"
     }
   ]
 }
