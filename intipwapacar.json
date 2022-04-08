@@ -26,107 +26,55 @@
       "title": "IQ Test vs The Moron Test",
       "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
       "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
-    },
-    {
-      "id": 2,
-      "title": "Skins Editor for Minecraft PE",
-      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
-    },
-    {
-      "id": 3,
-      "title": "Nova Skin for Minecraft PE",
-      "image": "https://play-lh.googleusercontent.com/WfMISX2KSNgtyCOB7Xp4eTdG1Ic1uUDLMet_mb8dSP9u9tEnus4jCnfM7Gf-H5YLZ4Y=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.novaskinformcpe"
-    },
-    {
-      "id": 4,
-      "title": "Scanner Document App - HD PDF",
-      "image": "https://play-lh.googleusercontent.com/pIDr4jeoEtbwOoYWanvAQRDHI3EYoJrt66XQwBCZpnVNi6t1XSEYy_O7vo8OgaWerg=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.pdfscanner"
-    },
-    {
-      "id": 6,
-      "title": "Super Math Solver Calculator",
-      "image": "https://play-lh.googleusercontent.com/v_BaqS10DTTxIQ6tpE3xbITicy-sfa0Xr0l72EZ0C6Oh70U8wTTiNuVfEMzm3cc0Pec=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.calculator"
-    },
-    {
-      "id": 8,
-      "title": "Twibbon Maker",
-      "image": "https://play-lh.googleusercontent.com/SKzgotlXDUORcqorDrrTmv4MDs0A35r-qRmavl-cEQYzBXsRelQc84-Z2mtpQoJ9aFA=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
-    },
-    {
-      "id": 9,
-      "title": "Kamus Bahasa Indonesia",
-      "image": "https://play-lh.googleusercontent.com/IVpIzBITIgelJ6jV1Ht1TlxaRLzEX42treUbB0__ceWRfIqipLjSiSvUdZWibdVMdCu_=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
-    },
-    {
-      "id": 10,
-      "title": "Data Gempabumi Terbuka",
-      "image": "https://play-lh.googleusercontent.com/vT2w77gQj8WMKxYri7uaz-lrQYXILNbhAWJlFj1DWNbVpy2Hv-ZNEO-rISKyLi_ui6o=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
     }
   ],
   "Categories": [
     {
       "id": 1,
-      "name_category": "Playstore",
-      "image": "file:///android_asset/image/image1.png"
-    },
-    {
-      "id": 2,
       "name_category": "Tutorial",
-      "image": "file:///android_asset/image/image2.webp"
-    },
-    {
-      "id": 3,
-      "name_category": "Reskin",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/360x240/photo/2019/01/11/3082057783.jpg"
     }
   ],
   "Data": [
             {
       "id": 1,
-      "name_category": "Easy",
-      "title": "Lewat Internet Dengan Aplikasi",
-      "image": "https://www.spymasterpro.com/wp-content/uploads/2018/06/new.png",
-      "description": "Cara Mengetahui Isi chat Lewat Internet Dengan Aplikasi",
-      "link": "https://wartiny.github.io/baru/Lewat%20Internet%20Dengan%20Aplikasi.html"
+      "name_category": "Tutorial",
+      "title": "Mengetahui Daftar Chat WA Terakhir Pacar",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/360x240/photo/2019/01/11/3082057783.jpg",
+      "description": "Cara Mengetahui Daftar Chat WA Terakhir Pacar",
+      "link": "https://wartiny.github.io/baru/cara%20mengetahui%20siapa.html"
     },
-        {
+    {
       "id": 2,
-      "name_category": "Easy",
+      "name_category": "Tutorial",
       "title": "Tanpa Brandcode Dengan Database",
       "image": "https://1.bp.blogspot.com/-h4WHL5Tmxac/W3Z8CQsHHjI/AAAAAAAACmc/mL8w1qUWGuQLOFfhZpUoXAW5v29-AKRAgCLcBGAs/s1600/gabung.jpg",
-      "description": "Cara Mengetahui Isi chat Tanpa Brandcode Dengan Database (Root)",
+      "description": "Cara intip Wa Pacar Tanpa Brandcode Dengan Database (Root)",
       "link": "https://wartiny.github.io/baru/Tanpa%20Brandcode%20Dengan%20Database.html"
     },
     {
       "id": 3,
-      "name_category": "Easy",
-      "title": "Tanpa Verifikasi Dengan Backup File",
-      "image": "https://www.forecovery.com/wp-content/uploads/2017/05/whatsapp-restore-local-backup.jpg",
-      "description": "Cara Mengetahui Isi chat Tanpa Verifikasi Dengan Backup File",
-      "link": "https://wartiny.github.io/baru/Tanpa%20Verifikasi%20Dengan%20Backup%20File.html"
-    },
-    {
-      "id": 4,
-      "name_category": "Easy",
+      "name_category": "Tutorial",
       "title": "Menggunakan WA Web",
-      "image": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2020/10/05/4018619190.png",
-      "description": "Cara Mengetahui Isi chat dengan Menggunakan WhatsApp Web",
+      "image": "https://st2.depositphotos.com/2473625/11320/i/950/depositphotos_113207818-stock-photo-top-view-laptop-or-notebook.jpg",
+      "description": "Cara intip Wa Pacar dengan Menggunakan WhatsApp Web",
       "link": "https://wartiny.github.io/baru/dengan%20wa%20web.html"
     },
     {
+      "id": 4,
+      "name_category": "Tutorial",
+      "title": "Tanpa Verifikasi Dengan Backup File",
+      "image": "https://aws-images-prod.sindonews.net/dyn/600/pena/sindo-article/original/2022/04/04/Cara%20Mengembalikan%20File%20WhatsApp%20yang%20Terhapus2.jpg",
+      "description": "Cara intip Wa Pacar Tanpa Verifikasi Dengan Backup File",
+      "link": "https://wartiny.github.io/baru/Tanpa%20Verifikasi%20Dengan%20Backup%20File.html"      
+    },
+    {
       "id": 5,
-      "name_category": "Easy",
-      "title": "Mengetahui Daftar Chat WA Terakhir Doi",
-      "image": "https://3.bp.blogspot.com/-AQiNQlsFbq8/W3aDGXtddKI/AAAAAAAACm0/AZfLOCOcqjIhfSbqcr5X-gVlh_L69768QCLcBGAs/s1600/gabung.jpg",
-      "description": "Cara Mengetahui Daftar Chat WA Terakhir Doi",
-      "link": "https://wartiny.github.io/baru/cara%20mengetahui%20siapa.html"
+      "name_category": "Tutorial",
+      "title": "Lewat Internet Dengan Aplikasi",
+      "image": "https://utechnoworld.com/wp-content/uploads/2022/01/httpsutechnoworld.comhow-to-raid-5-raid-configuration.jpg",
+      "description": "Cara intip Wa Pacar Lewat Internet Dengan Aplikasi",
+      "link": "https://wartiny.github.io/baru/Lewat%20Internet%20Dengan%20Aplikasi.html"
     }
   ]
 }
