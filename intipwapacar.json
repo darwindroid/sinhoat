@@ -1,0 +1,132 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "native_for_admob":"ca-app-pub-3940256099942544/2247696110x",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+    {
+      "id": 1,
+      "title": "IQ Test vs The Moron Test",
+      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+    },
+    {
+      "id": 2,
+      "title": "Skins Editor for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
+    },
+    {
+      "id": 3,
+      "title": "Nova Skin for Minecraft PE",
+      "image": "https://play-lh.googleusercontent.com/WfMISX2KSNgtyCOB7Xp4eTdG1Ic1uUDLMet_mb8dSP9u9tEnus4jCnfM7Gf-H5YLZ4Y=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.novaskinformcpe"
+    },
+    {
+      "id": 4,
+      "title": "Scanner Document App - HD PDF",
+      "image": "https://play-lh.googleusercontent.com/pIDr4jeoEtbwOoYWanvAQRDHI3EYoJrt66XQwBCZpnVNi6t1XSEYy_O7vo8OgaWerg=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.pdfscanner"
+    },
+    {
+      "id": 6,
+      "title": "Super Math Solver Calculator",
+      "image": "https://play-lh.googleusercontent.com/v_BaqS10DTTxIQ6tpE3xbITicy-sfa0Xr0l72EZ0C6Oh70U8wTTiNuVfEMzm3cc0Pec=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.calculator"
+    },
+    {
+      "id": 8,
+      "title": "Twibbon Maker",
+      "image": "https://play-lh.googleusercontent.com/SKzgotlXDUORcqorDrrTmv4MDs0A35r-qRmavl-cEQYzBXsRelQc84-Z2mtpQoJ9aFA=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
+    },
+    {
+      "id": 9,
+      "title": "Kamus Bahasa Indonesia",
+      "image": "https://play-lh.googleusercontent.com/IVpIzBITIgelJ6jV1Ht1TlxaRLzEX42treUbB0__ceWRfIqipLjSiSvUdZWibdVMdCu_=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
+    },
+    {
+      "id": 10,
+      "title": "Data Gempabumi Terbuka",
+      "image": "https://play-lh.googleusercontent.com/vT2w77gQj8WMKxYri7uaz-lrQYXILNbhAWJlFj1DWNbVpy2Hv-ZNEO-rISKyLi_ui6o=s180-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Playstore",
+      "image": "file:///android_asset/image/image1.png"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/image/image2.webp"
+    },
+    {
+      "id": 3,
+      "name_category": "Reskin",
+      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_thumb_616ec085f3a296-86862239-28733081.jpg"
+    }
+  ],
+  "Data": [
+            {
+      "id": 1,
+      "name_category": "Easy",
+      "title": "Lewat Internet Dengan Aplikasi",
+      "image": "https://www.spymasterpro.com/wp-content/uploads/2018/06/new.png",
+      "description": "Cara Mengetahui Isi chat Lewat Internet Dengan Aplikasi",
+      "link": "https://wartiny.github.io/baru/Lewat%20Internet%20Dengan%20Aplikasi.html"
+    },
+        {
+      "id": 2,
+      "name_category": "Easy",
+      "title": "Tanpa Brandcode Dengan Database",
+      "image": "https://1.bp.blogspot.com/-h4WHL5Tmxac/W3Z8CQsHHjI/AAAAAAAACmc/mL8w1qUWGuQLOFfhZpUoXAW5v29-AKRAgCLcBGAs/s1600/gabung.jpg",
+      "description": "Cara Mengetahui Isi chat Tanpa Brandcode Dengan Database (Root)",
+      "link": "https://wartiny.github.io/baru/Tanpa%20Brandcode%20Dengan%20Database.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Easy",
+      "title": "Tanpa Verifikasi Dengan Backup File",
+      "image": "https://www.forecovery.com/wp-content/uploads/2017/05/whatsapp-restore-local-backup.jpg",
+      "description": "Cara Mengetahui Isi chat Tanpa Verifikasi Dengan Backup File",
+      "link": "https://wartiny.github.io/baru/Tanpa%20Verifikasi%20Dengan%20Backup%20File.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Easy",
+      "title": "Menggunakan WA Web",
+      "image": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2020/10/05/4018619190.png",
+      "description": "Cara Mengetahui Isi chat dengan Menggunakan WhatsApp Web",
+      "link": "https://wartiny.github.io/baru/dengan%20wa%20web.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Easy",
+      "title": "Mengetahui Daftar Chat WA Terakhir Doi",
+      "image": "https://3.bp.blogspot.com/-AQiNQlsFbq8/W3aDGXtddKI/AAAAAAAACm0/AZfLOCOcqjIhfSbqcr5X-gVlh_L69768QCLcBGAs/s1600/gabung.jpg",
+      "description": "Cara Mengetahui Daftar Chat WA Terakhir Doi",
+      "link": "https://wartiny.github.io/baru/cara%20mengetahui%20siapa.html"
+    }
+  ]
+}
