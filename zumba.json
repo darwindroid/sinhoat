@@ -57,6 +57,22 @@
       "image": "https://productimages.withfloats.com/actual/5b2b3fac0c1c510e1c7a45ee.jpg",
       "link_video": "https://archive.org/download/dctvma-Zumba_Gold_Fitness/Zumba_Gold_Fitness.mp4",
       "description": "Zumba Gold Fitness"
+    },
+    {
+      "id": 4,
+      "name_category": "Zumba Dance",
+      "title": "Zumba For Lose Weight",
+      "image": "https://keyassets-p2.timeincuk.net/wp/prod/wp-content/uploads/sites/63/2013/08/Zumba.jpg",
+      "link_video": "https://archive.org/download/dctvma-Zumba_Gold_Fitness/Zumba_Gold_Fitness.mp4",
+      "description": "Zumba Dance For Lose Weight"
+    },
+    {
+      "id": 5,
+      "name_category": "Zumba Dance",
+      "title": "Zumba For Beginners",
+      "image": "https://nallafitness.com/wp-content/uploads/2021/03/zumba.jpeg",
+      "link_video": "https://archive.org/download/dctvma-Zumba_Gold_Fitness/Zumba_Gold_Fitness.mp4",
+      "description": "Zumba Dance For Beginners"
     }
   ]
 }
