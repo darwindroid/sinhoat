@@ -7,7 +7,7 @@
       "native_for_admob_applovin":"ca-app-pub-3940256099942544/2247696110",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
-      "interval_intertitial": 5,
+      "interval_intertitial": 1,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -77,86 +77,43 @@
    ],
   "Categories": [
     {
-      "name_category": "Kaffah Official",
-      "image": "file:///android_asset/image/kaffah.jpg"
-    },
-    {
-      "name_category": "Qawiyyun Media",
-      "image": "file:///android_asset/image/qawiyyun.jpg"
-    },
-    {
-      "name_category": "Ferry Chanel",
-      "image": "file:///android_asset/image/ferry.jpg"
+      "name_category": "Aerobics",
+      "image": "https://assets.thehansindia.com/h-upload/2019/12/15/245570-aerobics.webp"
     }
   ],
   "Video": [
     {
       "id": 1,
-      "name_category": "Kaffah Official",
-      "title": "Bumi Syam : Tanah Para Nabi",
-      "image": "file:///android_asset/image/syam.jpg",
-      "link_video": "https:/aliendro.id/projek/alien2.mp4",
-      "description": "Contoh Video 1 : Video di unggah ke hosting pribadi dengan format *.mp4, support berbagai ektensi video"
-    },
+      "name_category": "Aerobics",
+      "title": "Lose Fat Belly Arm Aerobics",
+      "image": "https://assets.thehansindia.com/h-upload/2019/12/15/245570-aerobics.webp",
+      "link_video": "https://archive.org/download/lose-fat-belly/lose%20fat%20belly.mp4",
+      "description": "Aerobics for Lose Fat Belly Arm"
+    }
+  ,
     {
       "id": 2,
-      "name_category": "Kaffah Official",
-      "title": "Tiupan Sangsakala Hari Kiamat",
-      "image": "file:///android_asset/image/sangsakala.jpg",
-      "link_video": "https://ia601509.us.archive.org/31/items/alien2_202203/alien.mp4",
-      "description": "Contoh Video 2 : Video di unggah ke archive.org dengan format *.mp4, support berbagai ektensi video"
-    }
-  ,
-    {
-      "id": 3,
-      "name_category": "Kaffah Official",
-      "title": "Kisah Turunnya Kitab Taurat",
-      "image": "https:/aliendro.id/uploads/demo/videoonline/taurat.jpg",
-      "link_video": "https:/aliendro.id/projek/alien2.mp4",
-      "description": "Contoh Video 3 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
-    }
-    ,
-    {
-      "id": 4,
-      "name_category": "Kaffah Official",
-      "title": "Runtuhnya Israel Di Akhir Zaman",
-      "image": "file:///android_asset/image/israel.jpg",
-      "link_video": "https:/aliendro.id/projek/alien.mp4",
-      "description": "Contoh Video 4 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
-    }
-  ,
-    {
-      "id": 5,
-      "name_category": "Kaffah Official",
-      "title": "Sejarah Perang Khandak",
-      "image": "file:///android_asset/image/khandak.jpg",
-      "link_video": "https:/aliendro.id/projek/alien2.mp4",
-      "description": "Contoh Video 5 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
-    }
-  ,
-    {
-      "id": 6,
-      "name_category": "Kaffah Official",
-      "title": "Sejarah Perang Ain Zalut",
-      "image": "file:///android_asset/image/zalut.jpg",
-      "link_video": "https:/aliendro.id/projek/alien.mp4",
-      "description": "Contoh Video 6 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
+      "name_category": "Aerobics",
+      "title": "15 Minute Aerobics Workout",
+      "image": "https://cf.ltkcdn.net/exercise/images/std/269832-800x515r1-aerobics.jpg",
+      "link_video": "https://archive.org/download/15min/15min.mp4",
+      "description": "15 Minute Aerobics Workout"
     } ,
     {
-      "id": 7,
-      "name_category": "Ferry Chanel",
-      "title": "Kisah Imam Malik",
-      "image": "https://img.youtube.com/vi/LMfGloeVWTE/maxresdefault.jpg",
-      "link_video": "https:/aliendro.id/projek/alien.mp4",
-      "description": "Contoh Video 7 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
+      "id": 3,
+      "name_category": "Aerobics",
+      "title": "Aerobic Routine Part 2",
+      "image": "https://i.ytimg.com/vi/965qZScyVVI/maxresdefault.jpg",
+      "link_video": "https://archive.org/download/aerobics-dance-part-2/aerobics%20dance%20part%202.mp4",
+      "description": "Aerobic Routine for lose weight Part 2"
     },
     {
-      "id": 8,
-      "name_category": "Ferry Chanel",
-      "title": "Alam Malaikat",
-      "image": "https://img.youtube.com/vi/-RFS6z52LgY/maxresdefault.jpg",
-      "link_video": "https:/aliendro.id/projek/alien.mp4",
-      "description": "Contoh Video 8 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
+      "id": 4,
+      "name_category": "Aerobics",
+      "title": "Aerobic Routine Part 1",
+      "image": "https://goodspaguide.co.uk/images/uploads/Features/Aerobics/aerobics-class.jpg",
+      "link_video": "https://archive.org/download/aerobic-lose-weight-part-1/aerobic%20lose%20weight%20part%201.mp4",
+      "description": "Aerobic Routine for lose weight Part 1"
     }
   ]
 }
