@@ -1,0 +1,71 @@
+ { "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "native_for_admob_applovin":"ca-app-pub-3940256099942544/2247696110",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "interval_intertitial": 1,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+   "More": [
+     {
+       "id": 1,
+       "title": "IQ Test vs The Moron Test",
+       "image": "https://play-lh.googleusercontent.com/XhugYTsJV_xevG_g4fSAXDyNHCRGyVqklvdOriC6pkIxVcEWJZ1g3uCbcR1ScmCvSOpu=w1920-h980-rw",
+       "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+     }
+   ],
+  "Categories": [
+    {
+      "name_category": "Muay Thai",
+      "image": "https://awsimages.detik.net.id/community/media/visual/2017/01/03/1ba0bd07-c8d9-4b68-b1c4-1d95ada05c62_169.jpeg"
+    }
+  ],
+  "Video": [
+    {
+      "id": 1,
+      "name_category": "Muay Thai",
+      "title": "Core",
+      "image": "https://st.depositphotos.com/1029357/2634/v/600/depositphotos_26346677-stock-illustration-hand-drawn-thai-martial-arts.jpg",
+      "link_video": "https://archive.org/download/basic_202204/core.mp4",
+      "description": "Muaythai Core"
+    }
+  ,
+    {
+      "id": 2,
+      "name_category": "Muay Thai",
+      "title": "Technique",
+      "image": "file:///android_asset/image/zalut.jpg",
+      "link_video": "https://archive.org/download/basic_202204/technique.mp4",
+      "description": "Muay Thai Technique"
+    } ,
+    {
+      "id": 3,
+      "name_category": "Muay Thai",
+      "title": "Warm Up",
+      "image": "https://img.pixers.pics/pho_wat(s3:700/FO/53/31/63/42/700_FO53316342_918a4c69ca2216522694705d2d797ecd.jpg,700,656,cms:2018/10/5bd1b6b8d04b8_220x50-watermark.png,over,480,606,jpg)/posters-hand-drawn-thai-martial-arts-and-muay-thai-boran.jpg",
+      "link_video": "https://archive.org/download/basic_202204/warmup.mp4",
+      "description": "Warm up before exercise"
+    },
+    {
+      "id": 4,
+      "name_category": "Muay Thai",
+      "title": "Basic",
+      "image": "https://contents.mediadecathlon.com/p1965041/k$725d40fe9622d77339b1338f2e16afb4/pelindung-pergelangan-kaki-muay-thai-dewasa-hitamslashmerah.jpg",
+      "link_video": "https://archive.org/download/basic_202204/basic.mp4",
+      "description": "Basic Muay Thai for Beginners"
+    }
+  ]
+}
