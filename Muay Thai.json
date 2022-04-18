@@ -47,7 +47,7 @@
       "id": 2,
       "name_category": "Muay Thai",
       "title": "Technique",
-      "image": "file:///android_asset/image/zalut.jpg",
+      "image": "https://st.depositphotos.com/1029357/2713/v/950/depositphotos_27139801-stock-illustration-hand-drawn-thai-martial-arts.jpg",
       "link_video": "https://archive.org/download/basic_202204/technique.mp4",
       "description": "Muay Thai Technique"
     } ,
@@ -63,7 +63,7 @@
       "id": 4,
       "name_category": "Muay Thai",
       "title": "Basic",
-      "image": "https://contents.mediadecathlon.com/p1965041/k$725d40fe9622d77339b1338f2e16afb4/pelindung-pergelangan-kaki-muay-thai-dewasa-hitamslashmerah.jpg",
+      "image": "https://st.depositphotos.com/1029357/2634/v/950/depositphotos_26346683-stock-illustration-hand-drawn-thai-martial-arts.jpg",
       "link_video": "https://archive.org/download/basic_202204/basic.mp4",
       "description": "Basic Muay Thai for Beginners"
     }
