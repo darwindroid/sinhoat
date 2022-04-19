@@ -29,22 +29,14 @@
    ],
   "Categories": [
     {
-      "name_category": "Kaffah Official",
-      "image": "file:///android_asset/image/kaffah.jpg"
-    },
-    {
-      "name_category": "Qawiyyun Media",
-      "image": "file:///android_asset/image/qawiyyun.jpg"
-    },
-    {
-      "name_category": "Ferry Chanel",
-      "image": "file:///android_asset/image/ferry.jpg"
+      "name_category": "Taekwondo Basic",
+      "image": "https://www.edgetkd.com.au/wp-content/uploads/2021/12/child-removebg-preview.png"
     }
   ],
   "Video": [
     {
       "id": 1,
-      "name_category": "Kaffah Official",
+      "name_category": "Taekwondo Basic",
       "title": "Taekwondo Basic 1",
       "image": "https://www.edgetkd.com.au/wp-content/uploads/2021/12/child-removebg-preview.png",
       "link_video": "https://archive.org/download/videoplayback_7_202204/videoplayback_3.mp4",
@@ -52,7 +44,7 @@
     },
     {
       "id": 2,
-      "name_category": "Kaffah Official",
+      "name_category": "Taekwondo Basic",
       "title": "Taekwondo Basic 2",
       "image": "https://www.emotions.ae/wp-content/uploads/2019/06/karate-classes-in-qassimia.png",
       "link_video": "https://archive.org/download/videoplayback_7_202204/videoplayback_4.mp4",
@@ -61,7 +53,7 @@
   ,
     {
       "id": 3,
-      "name_category": "Kaffah Official",
+      "name_category": "Taekwondo Basic",
       "title": "Taekwondo Basic 3",
       "image": "https://banner2.cleanpng.com/20180715/ou/kisspng-dobok-taekwondo-karate-hapkido-tang-soo-do-png-taekwondo-5b4ba177c0db90.93540203153168319179.jpg",
       "link_video": "https://archive.org/download/videoplayback_7_202204/videoplayback_5.mp4",
@@ -70,7 +62,7 @@
     ,
     {
       "id": 4,
-      "name_category": "Kaffah Official",
+      "name_category": "Taekwondo Basic",
       "title": "Taekwondo Basic 4",
       "image": "https://p.kindpng.com/picc/s/224-2245582_karate-png-fight-female-taekwondo-png-transparent-png.png",
       "link_video": "https://archive.org/download/videoplayback_7_202204/videoplayback_6.mp4",
@@ -79,7 +71,7 @@
   ,
     {
       "id": 5,
-      "name_category": "Kaffah Official",
+      "name_category": "Taekwondo Basic",
       "title": "Taekwondo Basic 5",
       "image": "https://pngset.com/images/how-do-i-choose-a-martial-arts-school-taekwondo-discipline-person-human-karate-sport-transparent-png-505127.png",
       "link_video": "https://archive.org/download/videoplayback_7_202204/videoplayback_7.mp4",
