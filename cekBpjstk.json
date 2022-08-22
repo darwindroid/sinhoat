@@ -39,7 +39,7 @@
     {
       "id": 1,
       "name_category": "Cek Bpjs",
-      "title": "Cek saldo BPJS Ketenagakerjaan melalui SMS",
+      "title": "Cek Melalui SMS",
       "image": "https://akcdn.detik.net.id/community/media/visual/2016/01/21/05ab827f-ff0d-4626-91d6-b10ffb42bbc2_169.jpg",
       "description": "Cara Cek saldo BPJS Ketenagakerjaan melalui SMS",
       "link": "file:///android_asset/guide/guide1.html"
@@ -47,7 +47,7 @@
     {
       "id": 2,
       "name_category": "Cek Bpjs",
-      "title": "Cek saldo BPJS Ketenagakerjaan melalui Mobile",
+      "title": "Cek Melalui Mobile",
       "image": "https://asset.kompas.com/crops/0rdwbs91k4TSeY1K7eMDDR9XPw0=/0x0:817x545/780x390/data/photo/2021/09/04/6133260746c94.png",
       "description": "Cara Cek saldo BPJS Ketenagakerjaan melalui Mobile",
       "link": "https://darwindroid.github.io/gambar/lewatmobile.html"
@@ -55,7 +55,7 @@
     {
       "id": 3,
       "name_category": "Cek Bpjs",
-      "title": "Cara Cek saldo BPJS Ketenagakerjaan melalui web",
+      "title": "Cek Melalui Web",
       "image": "https://images.bisnis-cdn.com/thumb/posts/2020/05/04/1236319/cara-cek-saldo-2-bpjs-ketenagakerjaan-2020-.jpg",
       "description": "Cara Cek saldo BPJS Ketenagakerjaan melalui web",
       "link": "https://darwindroid.github.io/gambar/lewatweb.html"
