@@ -32,7 +32,7 @@
     {
       "id": 1,
       "name_category": "Tutorials",
-      "image": "file:///android_asset/image/image2.webp"
+      "image": "https://image.made-in-china.com/318f0j00uQOtZfzIjThE/ID115-Plus-mp4.jpg"
     }
   ],
   "Data": [
@@ -40,7 +40,7 @@
       "id": 1,
       "name_category": "Tutorials",
       "title": "Wearing Method",
-      "image": "https://manuals.plus/wp-content/uploads/2021/02/Wearing-Method-300x175.png",
+      "image": "https://static-01.daraz.pk/p/4f30f1932b6605bac0f4cd70827664c3.jpg",
       "description": "Wearing Method band",
       "link": "https://darwindroid.github.io/gambar/howtoweringmethod.html"
     },
