@@ -1,0 +1,102 @@
+{"Ads": 
+  [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+      "open_ads_wortise":"",
+      "on_off_native_listview":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+     "Categories": [
+    {
+      "category": "HUT RI 78",
+      "image_link": "frame/idul.webp"
+
+    }
+  ],
+
+  "Item": [
+    {
+      "id": 1,
+      "category": "HUT RI 78",
+      "title": "Hari Merdeka1",
+      "image_link": "https://asset.twibbonize.com/b8502969-b13f-461b-a6da-5151c78f7730_ff414c46-ffe3-4826-a5b2-3ba23471ddf8.png"
+    },
+    {
+      "id": 2,
+      "category": "HUT RI 78",
+      "title": "Hari Merdeka2",
+      "image_link": "https://asset.twibbonize.com/b8502969-b13f-461b-a6da-5151c78f7730_0c242e40-46bb-4e2a-8fef-670e00e42d35.png"
+    },
+    {
+      "id": 3,
+      "category": "HUT RI 78",
+      "title": "Hari Merdeka3",
+      "image_link": "https://asset.twibbonize.com/b8502969-b13f-461b-a6da-5151c78f7730_d65048f5-c51c-4aaf-855b-3da446236198.png"
+    },
+    {
+      "id": 4,
+      "category": "HUT RI 78",
+      "title": "Hari Merdeka4",
+      "image_link": "https://frame.twibbonize.com/337d51b7-6b42-44b2-9c5d-0edd06f4b393.png"
+    },
+    {
+      "id": 5,
+      "category": "HUT RI 78",
+      "title": "Hari Merdeka5",
+      "image_link": "https://frame.twibbonize.com/ecd658ab-a1c0-4a9e-811f-cfedb5fd96ed.png"
+    },
+    {
+      "id": 6,
+      "category": "HUT RI 78",
+      "title": "Hari Merdeka6",
+      "image_link": "https://asset.twibbonize.com/b8502969-b13f-461b-a6da-5151c78f7730_f658b794-4fd2-4efa-bab9-ed4b72bad371.png"
+    },
+    {
+      "id": 7,
+      "category": "HUT RI 78",
+      "title": "Hari Merdeka7",
+      "image_link": "https://frame.twibbonize.com/8b5be5ed-01aa-4871-9194-67ea11437b65.png"
+    },
+    {
+      "id": 8,
+      "category": "HUT RI 78",
+      "title": "Hari Merdeka8",
+      "image_link": "https://frame.twibbonize.com/471b0140-0dda-4312-b939-ae74d8f73ea2.png"
+    },
+    {
+      "id": 9,
+      "category": "HUT RI 78",
+      "title": "Hari Merdeka9",
+      "image_link": "https://asset.twibbonize.com/8d9f2433-83e6-40e6-8e83-bb81f8884d9f_8563b83b-aaa6-48e5-8570-811c8af20dd7.png"
+    },
+    {
+      "id": 10,
+      "category": "HUT RI 78",
+      "title": "Hari Merdeka10",
+      "image_link": "https://frame.twibbonize.com/839bf665-d3a0-4bf0-b579-fe595ee70316.png"
+    }
+
+
+  ]
+}
