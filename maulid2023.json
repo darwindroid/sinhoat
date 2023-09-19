@@ -3,8 +3,8 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_banner": "ca-app-pub-9525858816840213/1484319163",
+      "main_ads_intertitial":"ca-app-pub-9525858816840213/6805499426",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
       "open_ads_admob":"",
@@ -25,7 +25,7 @@
   ],
      "Categories": [
     {
-      "category": "Hari Raya",
+      "category": "Maulid Nabi",
       "image_link": "frame/idul.webp"
 
     }
@@ -34,62 +34,62 @@
   "Item": [
     {
       "id": 1,
-      "category": "Hari Nasional",
-      "title": "Hari Batik Nasional",
+      "category": "Maulid Nabi",
+      "title": "Maulid Nabi 1",
       "image_link": "https://frame.twibbonize.com/eb5667ee-3faa-41d1-8fd9-57c8c10e6ef8.png"
     },
     {
       "id": 2,
-      "category": "Hari Raya",
-      "title": "Idul Fitri",
+      "category": "Maulid Nabi",
+      "title": "Maulid Nabi 2",
       "image_link": "https://frame.twibbonize.com/ef43475a-c477-4288-bacb-ca63105873f6.png"
     },
     {
       "id": 3,
-      "category": "Pendidikan",
-      "title": "Olimpiade SAINS",
+      "category": "Maulid Nabi",
+      "title": "Maulid Nabi 3",
       "image_link": "https://frame.twibbonize.com/ec74f51d-5cd1-46b8-aef9-0b3371634a26.png"
     },
     {
       "id": 4,
-      "category": "Pendidikan",
-      "title": "Olimpiade Biologi",
+      "category": "Maulid Nabi",
+      "title": "Maulid Nabi 4",
       "image_link": "https://frame.twibbonize.com/5b537563-70db-440a-88d9-aff780746461.png"
     },
     {
       "id": 5,
-      "category": "Hari Nasional",
-      "title": "Hari Kebangkitan Pancasila",
+      "category": "Maulid Nabi",
+      "title": "Maulid Nabi 5",
       "image_link": "https://frame.twibbonize.com/c6d3e543-0722-4fcd-a550-d84d8e3904f9.png"
     },
     {
       "id": 6,
-      "category": "Hari Nasional",
-      "title": "Hari Sumpah Pemuda",
+      "category": "Maulid Nabi",
+      "title": "Maulid Nabi 6",
       "image_link": "https://frame.twibbonize.com/1844cf4c-da1c-4063-8618-167abd64702a.png"
     },
     {
       "id": 7,
-      "category": "Lainnya",
-      "title": "PKKTB 2021",
+      "category": "Maulid Nabi",
+      "title": "Maulid Nabi 7",
       "image_link": "https://frame.twibbonize.com/0f3ceddb-bee5-4c79-b523-947b6701b5b4.png"
     },
     {
       "id": 8,
-      "category": "Lainnya",
-      "title": "Ribut Bikin Kangen",
+      "category": "Maulid Nabi",
+      "title": "Maulid Nabi 8",
       "image_link": "https://frame.twibbonize.com/2344b27b-c60a-41fd-aa18-986ef1b1f3c4.png"
     },
     {
       "id": 9,
-      "category": "Hari Nasional",
-      "title": "Hari Santri Nasional",
+      "category": "Maulid Nabi",
+      "title": "Maulid Nabi 9",
       "image_link": "https://frame.twibbonize.com/ac7cca03-e742-4bee-8e2e-3e00e3682e4f.png"
     },
     {
       "id": 10,
-      "category": "Lainnya",
-      "title": "Ayo Divaksin",
+      "category": "Maulid Nabi",
+      "title": "Maulid Nabi 10",
       "image_link": "https://frame.twibbonize.com/5c08610f-1ffb-42e2-a778-fde1f303b89f.png"
     }
 
