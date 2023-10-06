@@ -3,8 +3,8 @@
     {
       "select_main_ads": "ADMOB",
       "select_backup_ads":"APPLOVIN-D",
-      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_banner": "ca-app-pub-9525858816840213/4554371141",
+      "main_ads_intertitial":"ca-app-pub-9525858816840213/9367714121",
       "backup_ads_banner":"db4d5e8718b97d78",
       "backup_ads_intertitial":"518cd97722c60b52",
       "open_ads_admob":"",
@@ -25,23 +25,8 @@
   ],
      "Categories": [
     {
-      "category": "Hari Raya",
-      "image_link": "frame/idul.webp"
-
-    },
-    {
-      "category": "Hari Nasional",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/pancasila.png"
-
-    },
-    {
-      "category": "Pendidikan",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade.png"
-
-    },
-    {
-      "category": "Lainnya",
-      "image_link": "frame/ribut.webp"
+      "category": "Sumpah Pemuda",
+      "image_link": "https://frame.twibbonize.com/9cf92a01-0958-4894-96c5-d533eddf4abf.png"
 
     }
   ],
@@ -49,63 +34,63 @@
   "Item": [
     {
       "id": 1,
-      "category": "Hari Nasional",
-      "title": "Hari Batik Nasional",
-      "image_link": "frame/batik.webp"
+      "category": "Sumpah Pemuda",
+      "title": "Sumpah Pemuda 1",
+      "image_link": "https://frame.twibbonize.com/9cf92a01-0958-4894-96c5-d533eddf4abf.png"
     },
     {
       "id": 2,
-      "category": "Hari Raya",
-      "title": "Idul Fitri",
-      "image_link": "frame/idul.webp"
+      "category": "Sumpah Pemuda",
+      "title": "Sumpah Pemuda 2",
+      "image_link": "https://frame.twibbonize.com/91c62b57-4f46-45d2-8f85-9c5087d4413f.png"
     },
     {
       "id": 3,
-      "category": "Pendidikan",
-      "title": "Olimpiade SAINS",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade.png"
+      "category": "Sumpah Pemuda",
+      "title": "Sumpah Pemuda 3",
+      "image_link": "https://frame.twibbonize.com/196814ff-b3e2-4b6d-b42b-8ea634c36def.png"
     },
     {
       "id": 4,
-      "category": "Pendidikan",
-      "title": "Olimpiade Biologi",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade2.png"
+      "category": "Sumpah Pemuda",
+      "title": "Sumpah Pemuda 4",
+      "image_link": "https://frame.twibbonize.com/77e6208a-7bc1-4aae-adf8-610a275a4436.png"
     },
     {
       "id": 5,
-      "category": "Hari Nasional",
-      "title": "Hari Kebangkitan Pancasila",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/pancasila.png"
+      "category": "Sumpah Pemuda",
+      "title": "Sumpah Pemuda 5",
+      "image_link": "https://frame.twibbonize.com/ecd122d8-2616-4023-87fc-6d7796fd7594.png"
     },
     {
       "id": 6,
-      "category": "Hari Nasional",
-      "title": "Hari Sumpah Pemuda",
-      "image_link": "frame/pemuda.webp"
+      "category": "Sumpah Pemuda",
+      "title": "Sumpah Pemuda 6",
+      "image_link": "https://frame.twibbonize.com/088c5379-94e0-4e5e-a71f-02d2f05cbd91.png"
     },
     {
       "id": 7,
-      "category": "Lainnya",
-      "title": "PKKTB 2021",
-      "image_link": "frame/pkktb.webp"
+      "category": "Sumpah Pemuda",
+      "title": "Sumpah Pemuda 7",
+      "image_link": "https://frame.twibbonize.com/184ac4f2-1971-4a82-a0d3-5e0b9a5881c1.png"
     },
     {
       "id": 8,
-      "category": "Lainnya",
-      "title": "Ribut Bikin Kangen",
-      "image_link": "frame/ribut.webp"
+      "category": "Sumpah Pemuda",
+      "title": "Sumpah Pemuda 8",
+      "image_link": "https://frame.twibbonize.com/051b79fc-80a2-42d1-a1ed-e1058d3f5c7c.png"
     },
     {
       "id": 9,
-      "category": "Hari Nasional",
-      "title": "Hari Santri Nasional",
-      "image_link": "frame/santri2.webp"
+      "category": "Sumpah Pemuda",
+      "title": "Sumpah Pemuda 9",
+      "image_link": "https://frame.twibbonize.com/184ac4f2-1971-4a82-a0d3-5e0b9a5881c1.png"
     },
     {
       "id": 10,
-      "category": "Lainnya",
-      "title": "Ayo Divaksin",
-      "image_link": "frame/vaksin.webp"
+      "category": "Sumpah Pemuda",
+      "title": "Sumpah Pemuda 10",
+      "image_link": "https://frame.twibbonize.com/a3f881ff-cc39-4792-9de2-99cea02c4ab2.png"
     }
 
 
