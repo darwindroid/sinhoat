@@ -1,0 +1,142 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+      "open_ads_wortise":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Layangan Ram Raman",
+      "wallpaper_url": "https://i.pinimg.com/564x/f9/b0/2e/f9b02eac70ebe211407eef0b199d9ce7.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "Layangan Ram Raman",
+      "wallpaper_name": "Ram1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/f9/b0/2e/f9b02eac70ebe211407eef0b199d9ce7.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Layangan Ram Raman",
+      "wallpaper_name": "Ram2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/61/f2/ef/61f2ef8352bfdce846f873438c6ccb6b.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Layangan Ram Raman",
+      "wallpaper_name": "Ram3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/4a/b2/de/4ab2de68fde12c3c571aa7b38994691b.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "Layangan Ram Raman",
+      "wallpaper_name": "Ram4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c5/0a/eb/c50aeb63fe53c68b63fc27eacba40cfc.jpg"
+    },
+    {
+      "id": 5,
+      "name_category": "Layangan Ram Raman",
+      "wallpaper_name": "Ram5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/0e/7b/74/0e7b74cad01d011e9316c0a09e92af30.jpg"
+    },
+    {
+      "id": 6,
+      "name_category": "Layangan Ram Raman",
+      "wallpaper_name": "Ram6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/e4/b4/6c/e4b46cecd43368d9aa70a90f7711805b.jpg"
+    },
+    {
+      "id": 7,
+      "name_category": "Layangan Ram Raman",
+      "wallpaper_name": "Ram7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ac/a0/95/aca095a6a6cf811f4420af6d136ddaca.jpg"
+    },
+    {
+      "id": 8,
+      "name_category": "Layangan Ram Raman",
+      "wallpaper_name": "Ram8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/85/cb/91/85cb9115d251ca061862dbc443886f22.jpg"
+    },
+    {
+      "id": 9,
+      "name_category": "Layangan Ram Raman",
+      "wallpaper_name": "Ram9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "gif/waterfall.gif"
+    },
+    {
+      "id": 10,
+      "name_category": "Layangan Ram Raman",
+      "wallpaper_name": "Ram10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/74/c6/22/74c622b2ed8527323931ec840b868bb4.jpg"
+    },
+    {
+      "id": 11,
+      "name_category": "Layangan Ram Raman",
+      "wallpaper_name": "Ram11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/a2/28/bf/a228bfa675ac4be1c15e389b31d9a791.jpg"
+    },
+    {
+      "id": 12,
+      "name_category": "Layangan Ram Raman",
+      "wallpaper_name": "Ram12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c5/c6/56/c5c6562d4d7b1d23a0decdd2fcb72d35.jpg"
+    },
+    {
+      "id": 13,
+      "name_category": "Layangan Ram Raman",
+      "wallpaper_name": "Ram13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/b1/a7/bf/b1a7bf34cda8e4c0bacd68841eb76a72.jpg"
+    },
+    {
+      "id": 14,
+      "name_category": "Layangan Ram Raman",
+      "wallpaper_name": "Ram14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/97/09/02/9709021dcf242f704f620d6c5c18ef81.jpg"
+    },
+    {
+      "id": 15,
+      "name_category": "Layangan Ram Raman",
+      "wallpaper_name": "Ram15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/66/d3/7d/66d37d68cc8f4c7fce55fc6e3dddecbf.jpg"
+    }
+  ]
+}
