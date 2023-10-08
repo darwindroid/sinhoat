@@ -1,0 +1,142 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max":"1",
+      "open_ads_wortise":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Puffy Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/564x/82/3b/a0/823ba0404604d03195a183f839967ebb.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "Puffy Wallpaper",
+      "wallpaper_name": "Puffy1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/82/3b/a0/823ba0404604d03195a183f839967ebb.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Puffy Wallpaper",
+      "wallpaper_name": "Puffy2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/20/35/e3/2035e353c11a9bfd99fb2af912733c8d.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Puffy Wallpaper",
+      "wallpaper_name": "Puffy3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/d7/a7/f7/d7a7f7726affd1b168e61da8a4caf50e.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "Puffy Wallpaper",
+      "wallpaper_name": "Puffy4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/95/db/13/95db1367bd3b670cd440f5fd76f74f14.jpg"
+    },
+    {
+      "id": 5,
+      "name_category": "Puffy Wallpaper",
+      "wallpaper_name": "Puffy5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c6/18/20/c61820b7db10e28e1d81e6e447b40bdc.jpg"
+    },
+    {
+      "id": 6,
+      "name_category": "Puffy Wallpaper",
+      "wallpaper_name": "Puffy6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/3f/9e/47/3f9e47295ff6133ca460b2e2e87913f6.jpg"
+    },
+    {
+      "id": 7,
+      "name_category": "Puffy Wallpaper",
+      "wallpaper_name": "Puffy7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/67/4e/b9/674eb97bcd59f265d0382c7addc619dd.jpg"
+    },
+    {
+      "id": 8,
+      "name_category": "Puffy Wallpaper",
+      "wallpaper_name": "Puffy8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c4/33/c4/c433c4054d264614dd4d780ef6aa70a8.jpg"
+    },
+    {
+      "id": 9,
+      "name_category": "Puffy Wallpaper",
+      "wallpaper_name": "Puffy9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/49/c9/67/49c967fe4d20a04dc4a757fe85fbb931.jpg"
+    },
+    {
+      "id": 10,
+      "name_category": "Puffy Wallpaper",
+      "wallpaper_name": "Puffy10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/e3/da/6a/e3da6a69bc0b0c968b1d8611074e513b.jpg"
+    },
+    {
+      "id": 11,
+      "name_category": "Puffy Wallpaper",
+      "wallpaper_name": "Puffy11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ed/8b/a6/ed8ba6e226bfa3f473cf529b3389ed5a.jpg"
+    },
+    {
+      "id": 12,
+      "name_category": "Puffy Wallpaper",
+      "wallpaper_name": "Puffy12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/e5/5f/d3/e55fd328166c249e2a58e9ed3aa6ee52.jpg"
+    },
+    {
+      "id": 13,
+      "name_category": "Puffy Wallpaper",
+      "wallpaper_name": "Puffy13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/60/16/2f/60162f764c071e85a7ad50557d83cdcc.jpg"
+    },
+    {
+      "id": 14,
+      "name_category": "Puffy Wallpaper",
+      "wallpaper_name": "Puffy14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/37/c4/6e/37c46e0d20f2897286258ac90ce1b121.jpg"
+    },
+    {
+      "id": 15,
+      "name_category": "Puffy Wallpaper",
+      "wallpaper_name": "Puffy15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/cd/9a/91/cd9a9196e3e31105dd228a2ec520a719.jpg"
+    }
+  ]
+}
