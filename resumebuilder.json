@@ -1,7 +1,7 @@
 {
   "Ads": [
     {
-      "select_main_ads": "FACEBOOK",
+      "select_main_ads": "IRON",
       "select_backup_ads":"STARTAPP",
       "main_ads_banner": "715650920505453_715651240505421",
       "main_ads_intertitial":"715650920505453_715651333838745",
@@ -13,8 +13,8 @@
       "open_ads_alien":"NULL",
       "open_ads_max":"NULL",
       "interval_intertitial": 1,
-      "initialize_sdk":"211761131",
-      "initialize_sdk_backup_ads":"211761131",
+      "initialize_sdk":"1d00704fd",
+      "initialize_sdk_backup_ads":"1d00704fd",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
