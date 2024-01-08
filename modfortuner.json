@@ -1,0 +1,210 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Maps": [
+    {
+      "name_map": "Map Terminal Poris - Pemalang by Fergiawan",
+      "view_map": "https://iili.io/HY9jXpt.md.jpg",
+      "map_url": "https://rame1.maybusid.my.id/mod/map/Start%20Dari%20Poris.bussidmod"
+    },
+    {
+      "name_map": "Map Pemalang - Poris by Fergiawan",
+      "view_map": "https://iili.io/HY9WHqQ.md.jpg",
+      "map_url": "https://rame1.maybusid.my.id/mod/map/Start%20Dari%20Pemalang.bussidmod"
+    }
+  ],
+  "Mods": [
+    {
+      "title": "Fortuner VRZ Travel 01",
+      "image": "https://iili.io/HtMC4LJ.jpg",
+      "category": "Mobil",
+      "link_mods": "https://rame1.maybusid.my.id/mod/car/857_Toyota_Fortuner_VRZ_Travel.bussidmod",
+      "name_livery": "VRZ Travel",
+      "link_livery": "https://rame1.maybusid.my.id/mod/liv/vrztravelputih.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Toyota Fortuner VRZ Travel 02",
+      "image": "https://iili.io/HtMnnLb.jpg",
+      "category": "Mobil",
+      "link_mods": "https://rame1.maybusid.my.id/mod/car/857_Toyota_Fortuner_VRZ_Travel.bussidmod",
+      "name_livery": "VRZ Travel 02",
+      "link_livery": "https://rame1.maybusid.my.id/mod/liv/ungutrvel.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Toyota Fortuner 2014",
+      "image": "https://iili.io/HtMxQdQ.jpg",
+      "category": "Mobil",
+      "link_mods": "https://rame1.maybusid.my.id/mod/car/280_Toyota_Fortuner_2014.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Fortuner Street Racing",
+      "image": "https://iili.io/HtMz1Eb.jpg",
+      "category": "Mobil",
+      "link_mods": "https://rame1.maybusid.my.id/mod/car/275_Toyota_Fortuner_Street_Racing.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Toyota Fortuner VRZ",
+      "image": "https://iili.io/HtMzM3x.jpg",
+      "category": "Mobil",
+      "link_mods": "https://rame1.maybusid.my.id/mod/car/210_Fortuner_VRZ_2022.bussidmod",
+      "name_livery": "Fortuner VRZ",
+      "link_livery": "https://rame1.maybusid.my.id/mod/liv/LIVERY%20FORCUM.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Toyota 2012 Modif",
+      "image": "https://iili.io/HDrvTHx.jpg",
+      "category": "Mobil",
+      "link_mods": "https://mod2n.maybusid.my.id/mod/car/Toyota_Innova_2012_Modif.bussidmod",
+      "name_livery": "Toyota 2012",
+      "link_livery": "https://mod2n.maybusid.my.id/mod/liv/inova2012.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Mobil BMW M4 DTM 2017 by tudhsbf123 YN cvt MAH",
+      "image": "https://aliendro.id/uploads/demo/premiumbussid/BMW M4.webp",
+      "category": "Mobil",
+      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/BMW M4.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Hot Wheels Bone Shaker by Naufel cvt MAH",
+      "image": "https://aliendro.id/uploads/demo/premiumbussid/Bone Shaker.webp",
+      "category": "Mobil",
+      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Bone Shaker.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Porsche 918 Spyder by nineIV cvt MAH Channel",
+      "image": "https://aliendro.id/uploads/demo/premiumbussid/Porsche 918.jpg",
+      "category": "Mobil",
+      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/Porsche 918.bussidmod",
+      "name_livery": "null",
+      "link_livery": "null",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "Truck Perkasa Tangki by Ade Iskandar",
+      "image": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.webp",
+      "category": "Mobil",
+      "link_mods": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.bussidmod",
+      "name_livery": "Pertamina",
+      "link_livery": "https://aliendro.id/uploads/demo/premiumbussid/pertamina.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    }
+  ],
+  "Audio": [
+    {
+      "title_mp3": "Pujian Hasbunallah Wa Ni'mal Wakil",
+      "name": "Santri Njoso",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/hasbunallah.mp3"
+    },
+    {
+      "title_mp3": "Al'Itiraf - Sebuah pengakuan",
+      "name": "Alfina Nindiyani",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/altiraf.mp3"
+    },
+    {
+      "title_mp3": "Do'a Rajab",
+      "name": "Alfina Nindiyani",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/rajab.mp3"
+    },
+    {
+      "title_mp3": "Allahul kaafi",
+      "name": "Bebiraira Channel",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/Allahul kaafi.mp3"
+    },
+    {
+      "title_mp3": "Rindu Madinah Cover By Umar Razeeq ft Mujib",
+      "name": "Shatibiyyah Studio",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/rindu.mp3"
+    },
+    {
+      "title_mp3": "Train Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/train_horn.mp3"
+    },
+    {
+      "title_mp3": "Dixie Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/dixie_horn.mp3"
+    },
+    {
+      "title_mp3": "Clown Horn",
+      "name": "Zedge",
+      "url_mp3": "https://aliendro.id/uploads/demo/premiumbussid/clown_horn.mp3"
+    }
+  ],
+  "Radio": [
+    {
+      "title_radio": "Rodja 756 AM",
+      "url_radio": "https://radioislamindonesia.com/rodja.mp3?_=2"
+    },
+    {
+      "title_radio": "Suara Al-Iman 846 AM",
+      "url_radio": "https://radioislamindonesia.com/aliman.mp3"
+    },
+    {
+      "title_radio": "Tarbiyah Sunnah 1476 AM",
+      "url_radio": "https://radioislamindonesia.com/tarbiyah.mp3"
+    },
+    {
+      "title_radio": "kalam FM 100.6 Mhz",
+      "url_radio": "https://radioislamindonesia.com/idzaatulkhair.mp3"
+    },
+    {
+      "title_radio": "Mutiara Qu'an 1170 am",
+      "url_radio": "https://radioislamindonesia.com/mutiaraquran.mp3"
+    },
+    {
+      "title_radio": "Hidayah 103,4 FM",
+      "url_radio": "https://radioislamindonesia.com/radiohidayah.mp3"
+    }
+  ]
+}
