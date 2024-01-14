@@ -1,7 +1,7 @@
 {
   "Ads": [
     {
-      "select_main_ads": FACEBOOK",
+      "select_main_ads": "FACEBOOK",
       "select_backup_ads":"ADMOB",
       "main_ads_banner": "699854902259699_699855292259660",
       "main_ads_intertitial":"699854902259699_699855785592944",
