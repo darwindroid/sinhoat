@@ -20,23 +20,13 @@
   ],
      "Categories": [
     {
-      "category": "Hari Raya",
-      "image_link": "frame/idul.webp"
+      "category": "New Year",
+      "image_link": "https://frame.twibbonize.com/ae6e32c6-df6e-4f52-8020-4a9d4b4df321.png"
 
     },
     {
-      "category": "Hari Nasional",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/pancasila.png"
-
-    },
-    {
-      "category": "Pendidikan",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade.png"
-
-    },
-    {
-      "category": "Lainnya",
-      "image_link": "frame/ribut.webp"
+      "category": "Chinese Dress",
+      "image_link": "frame/9.webp"
 
     }
   ],
@@ -44,63 +34,105 @@
   "Item": [
     {
       "id": 1,
-      "category": "Hari Nasional",
-      "title": "Hari Batik Nasional",
-      "image_link": "frame/batik.webp"
+      "category": "New Year",
+      "title": "Imlek1",
+      "image_link": "https://frame.twibbonize.com/ae6e32c6-df6e-4f52-8020-4a9d4b4df321.png"
     },
     {
       "id": 2,
-      "category": "Hari Raya",
-      "title": "Idul Fitri",
-      "image_link": "frame/idul.webp"
+      "category": "New Year",
+      "title": "Imlek2",
+      "image_link": "https://frame.twibbonize.com/3c7491df-9ed4-4ad0-a34e-6fc3e300753e.png"
     },
     {
       "id": 3,
-      "category": "Pendidikan",
-      "title": "Olimpiade SAINS",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade.png"
+      "category": "New Year",
+      "title": "Imlek3",
+      "image_link": "https://frame.twibbonize.com/c1f6fa7c-7544-4a9f-9c69-e10d66ed14ae.png"
     },
     {
       "id": 4,
-      "category": "Pendidikan",
-      "title": "Olimpiade Biologi",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/olimpiade2.png"
+      "category": "New Year",
+      "title": "Imlek4",
+      "image_link": "https://frame.twibbonize.com/0f339c04-a14a-4ccd-b475-a66193b9f371.png"
     },
     {
       "id": 5,
-      "category": "Hari Nasional",
-      "title": "Hari Kebangkitan Pancasila",
-      "image_link": "https://aliendro.id/uploads/demo/framejson/pancasila.png"
+      "category": "New Year",
+      "title": "Imlek5",
+      "image_link": "https://frame.twibbonize.com/99576851-9ffe-4c42-bcde-93b1a5302f8f.png"
     },
     {
       "id": 6,
-      "category": "Hari Nasional",
-      "title": "Hari Sumpah Pemuda",
-      "image_link": "frame/pemuda.webp"
+      "category": "New Year",
+      "title": "Imlek6",
+      "image_link": "https://frame.twibbonize.com/3b28c246-06f8-444a-a4a2-2e1af14c3340.png"
     },
     {
       "id": 7,
-      "category": "Lainnya",
-      "title": "PKKTB 2021",
-      "image_link": "frame/pkktb.webp"
+      "category": "New Year",
+      "title": "Imlek7",
+      "image_link": "https://frame.twibbonize.com/9c9b5e11-30ff-4c39-845f-4f8ffe8f4df9.png"
     },
-    {
+	 {
       "id": 8,
-      "category": "Lainnya",
-      "title": "Ribut Bikin Kangen",
-      "image_link": "frame/ribut.webp"
+      "category": "Chinese Dress",
+      "title": "Traditional 1",
+      "image_link": "frame/1.webp"
     },
     {
       "id": 9,
-      "category": "Hari Nasional",
-      "title": "Hari Santri Nasional",
-      "image_link": "frame/santri2.webp"
+      "category": "Chinese Dress",
+      "title": "Traditional 2",
+      "image_link": "frame/2.webp"
     },
     {
       "id": 10,
-      "category": "Lainnya",
-      "title": "Ayo Divaksin",
-      "image_link": "frame/vaksin.webp"
+      "category": "Chinese Dress",
+      "title": "Traditional 3",
+      "image_link": "frame/3.webp"
+    },
+    {
+      "id": 11,
+      "category": "Chinese Dress",
+      "title": "Traditional 4",
+      "image_link": "frame/4.webp"
+    },
+    {
+      "id": 12,
+      "category": "Chinese Dress",
+      "title": "Traditional 5",
+      "image_link": "frame/5.webp"
+    },
+    {
+      "id": 13,
+      "category": "Chinese Dress",
+      "title": "Traditional 6",
+      "image_link": "frame/6.webp"
+    },
+    {
+      "id": 14,
+      "category": "Chinese Dress",
+      "title": "Traditional 7",
+      "image_link": "frame/7.webp"
+    },
+    {
+      "id": 15,
+      "category": "Chinese Dress",
+      "title": "Traditional 8",
+      "image_link": "frame/8.webp"
+    },
+    {
+      "id": 16,
+      "category": "Chinese Dress",
+      "title": "Traditional 9",
+      "image_link": "frame/9.webp"
+    },
+    {
+      "id": 17,
+      "category": "Chinese Dress",
+      "title": "Traditional 10",
+      "image_link": "frame/10.webp"
     }
 
 
