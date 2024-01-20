@@ -1,0 +1,123 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
+      "main_ads_natives":"",
+      "backup_ads_natives":"",
+      "backup_ads_banner":"db4d5e8718b97d78",
+      "backup_ads_intertitial":"518cd97722c60b52",
+      "open_ads_admob":"",
+      "open_ads_alien":"",
+      "open_ads_max" :"",
+      "open_ads_wortise":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+"Maps": [
+    {
+      "name_map": "Tol Trans Jawa v2 by X Play Kembar",
+      "view_map": "https://bajradevapps.xyz/asmatkariwari/bussid/trucksawitmuatantumpah/trucksawitmuatantumpah1.jpg",
+      "map_url": "https://bajradevapps.xyz/asmatkariwari/bussid/trucksawitmuatantumpah/trucksawitmuatantumpah1.bussidmod"
+    },
+    {
+      "name_map": "mod map sumatra",
+	  "view_map": "https://bajradevapps.xyz/asmatkariwari/bussid/trucksawitmuatantumpah/trucksawitmuatantumpah1.jpg",
+      "map_url": "https://bajradevapps.xyz/asmatkariwari/bussid/trucksawitmuatantumpah/trucksawitmuatantumpah1.bussidmod"
+    }
+  ],
+  "Mods": [
+     {
+      "title": "LIVERY HINO MOLEN BATADORESS GAMING",
+      "image": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap1.png",
+      "category": "Bus",
+      "link_mods": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap1.bussidmod",
+      "name_livery": "LIVERY HINO MOLEN BATADORESS GAMING",
+      "link_livery": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap1.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "CANTER MOLEN  MIXER  CUSTOM 17 MERAH",
+      "image": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap2.png",
+      "category": "Bus",
+      "link_mods": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap1.bussidmod",
+      "name_livery": "CANTER MOLEN  MIXER  CUSTOM 17 MERAH",
+      "link_livery": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap2.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "CANTER MOLEN  MIXER  CUSTOM 17 PUTIH",
+      "image": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap3.png",
+      "category": "Bus",
+      "link_mods": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap1.bussidmod",
+      "name_livery": "CANTER MOLEN  MIXER  CUSTOM 17 PUTIH",
+      "link_livery": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap3.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "CANTER MOLEN  MIXER  CUSTOM 17 HIJAU",
+      "image": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap4.jpg",
+      "category": "Bus",
+      "link_mods": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap2.bussidmod",
+      "name_livery": "CANTER MOLEN  MIXER  CUSTOM 17 HIJAU",
+      "link_livery": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap4.jpg",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    },
+    {
+      "title": "CANTER MOLEN  MIXER  CUSTOM 17 KUNING",
+      "image": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap5.png",
+      "category": "Bus",
+      "link_mods": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap2.bussidmod",
+      "name_livery": "CANTER MOLEN  MIXER  CUSTOM 17 KUNING",
+      "link_livery": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap5.png",
+      "name_livery2": "null",
+      "link_livery2": "null"
+    }
+  ],
+  "Audio": [
+    {
+      "title_mp3": "Telolet Basuri V3 1",
+      "name": "Basuri V3",
+      "url_mp3": "https://bajradevapps.xyz/asmatkariwari/bussid/trucksawitmuatantumpah/trucksawitmuatantumpah1.mp3"
+    },
+    {
+      "title_mp3": "Telolet Basuri V3 2",
+      "name": "Basuri V3",
+      "url_mp3": "https://bajradevapps.xyz/asmatkariwari/bussid/trucksawitmuatantumpah/trucksawitmuatantumpah1.mp3"
+    },
+    {
+      "title_mp3": "Telolet Basuri V3 3",
+      "name": "Basuri V3",
+      "url_mp3": "https://bajradevapps.xyz/asmatkariwari/bussid/trucksawitmuatantumpah/trucksawitmuatantumpah1.mp3"
+    }
+  ],
+  "Radio": [
+    {
+      "title_radio": "Rodja 756 AM",
+      "url_radio": "https://radioislamindonesia.com/rodja.mp3?_=2"
+    },
+    {
+      "title_radio": "Suara Al-Iman 846 AM",
+      "url_radio": "https://radioislamindonesia.com/aliman.mp3"
+    },
+    {
+      "title_radio": "Tarbiyah Sunnah 1476 AM",
+      "url_radio": "https://radioislamindonesia.com/tarbiyah.mp3"
+	}
+  ]
+}
