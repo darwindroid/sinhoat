@@ -26,6 +26,16 @@
     }
   ],
 "Maps": [
+   {
+      "name_map": "Map Terminal Poris - Pemalang by Fergiawan",
+      "view_map": "https://iili.io/HY9jXpt.md.jpg",
+      "map_url": "https://rame1.maybusid.my.id/mod/map/Start%20Dari%20Poris.bussidmod"
+    },
+    {
+      "name_map": "Map Pemalang - Poris by Fergiawan",
+      "view_map": "https://iili.io/HY9WHqQ.md.jpg",
+      "map_url": "https://rame1.maybusid.my.id/mod/map/Start%20Dari%20Pemalang.bussidmod"
+    },
     {
       "name_map": "Tol Trans Jawa v2 by X Play Kembar",
       "view_map": "https://bajradevapps.xyz/asmatkariwari/bussid/trucksawitmuatantumpah/trucksawitmuatantumpah1.jpg",
@@ -49,7 +59,7 @@
       "link_livery2": "null"
     },
     {
-      "title": "CANTER MOLEN  MIXER  CUSTOM 17 MERAH",
+      "title": "MOLEN 17 MERAH",
       "image": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap2.png",
       "category": "Bus",
       "link_mods": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap1.bussidmod",
@@ -59,7 +69,7 @@
       "link_livery2": "null"
     },
     {
-      "title": "CANTER MOLEN  MIXER  CUSTOM 17 PUTIH",
+      "title": "MOLEN 17 PUTIH",
       "image": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap3.png",
       "category": "Bus",
       "link_mods": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap1.bussidmod",
@@ -69,7 +79,7 @@
       "link_livery2": "null"
     },
     {
-      "title": "CANTER MOLEN  MIXER  CUSTOM 17 HIJAU",
+      "title": "CANTER MOLEN HIJAU",
       "image": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap4.jpg",
       "category": "Bus",
       "link_mods": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap2.bussidmod",
@@ -83,7 +93,7 @@
       "image": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap5.png",
       "category": "Bus",
       "link_mods": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap2.bussidmod",
-      "name_livery": "CANTER MOLEN  MIXER  CUSTOM 17 KUNING",
+      "name_livery": "MOLEN KUNING",
       "link_livery": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap5.png",
       "name_livery2": "null",
       "link_livery2": "null"
