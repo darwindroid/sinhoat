@@ -98,12 +98,12 @@
       "name_livery2": "null",
       "link_livery2": "null"
     },
-	{
-	  "title": "Fuso Fighter Sumatra 01",
-	  "image": "https://iili.io/Ht2CKMv.jpg",
-	  "category": "Truck",
-      "link_mods": "https://rame1.maybusid.my.id/mod/truk/Fuso_FighterSumatra.bussidmod",
-	  "name_livery": "Fuso Fighter liv",
+    {
+       "title": "Fuso Fighter Sumatra 01",
+       "image": "https://iili.io/Ht2CKMv.jpg",
+       "category": "Truck",
+       "link_mods": "https://rame1.maybusid.my.id/mod/truk/Fuso_FighterSumatra.bussidmod",
+       "name_livery": "Fuso Fighter liv",
       "link_livery": "https://rame1.maybusid.my.id/mod/liv/sulPutih.png"
 	}  
   ],
