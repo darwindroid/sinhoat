@@ -13,7 +13,7 @@
       "open_ads_alien":"",
       "open_ads_max" :"",
       "open_ads_wortise":"",
-      "interval_intertitial": 5,
+      "interval_intertitial": 1,
       "initialize_sdk":"107355779",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
@@ -27,83 +27,101 @@
   ],
 "Maps": [
     {
+      "name_map": "Map Terminal Poris - Pemalang by Fergiawan",
+      "view_map": "https://iili.io/HY9jXpt.md.jpg",
+      "map_url": "https://rame1.maybusid.my.id/mod/map/Start%20Dari%20Poris.bussidmod"
+    },
+    {
+      "name_map": "Map Pemalang - Poris by Fergiawan",
+      "view_map": "https://iili.io/HY9WHqQ.md.jpg",
+      "map_url": "https://rame1.maybusid.my.id/mod/map/Start%20Dari%20Pemalang.bussidmod"
+    },
+    {
       "name_map": "Tol Trans Jawa v2 by X Play Kembar",
-      "view_map": "https://bajradevapps.xyz/asmatkariwari/bussid/trucksawitmuatantumpah/trucksawitmuatantumpah1.jpg",
-      "map_url": "https://bajradevapps.xyz/asmatkariwari/bussid/trucksawitmuatantumpah/trucksawitmuatantumpah1.bussidmod"
+      "view_map": "https://bajradevapps.xyz/asmatkariwari/Trucksid/trucksawitmuatantumpah/trucksawitmuatantumpah1.jpg",
+      "map_url": "https://bajradevapps.xyz/asmatkariwari/Trucksid/trucksawitmuatantumpah/trucksawitmuatantumpah1.Trucksidmod"
     },
     {
       "name_map": "mod map sumatra",
-	  "view_map": "https://bajradevapps.xyz/asmatkariwari/bussid/trucksawitmuatantumpah/trucksawitmuatantumpah1.jpg",
-      "map_url": "https://bajradevapps.xyz/asmatkariwari/bussid/trucksawitmuatantumpah/trucksawitmuatantumpah1.bussidmod"
+	  "view_map": "https://bajradevapps.xyz/asmatkariwari/Trucksid/trucksawitmuatantumpah/trucksawitmuatantumpah1.jpg",
+      "map_url": "https://bajradevapps.xyz/asmatkariwari/Trucksid/trucksawitmuatantumpah/trucksawitmuatantumpah1.Trucksidmod"
     }
   ],
   "Mods": [
      {
-      "title": "LIVERY HINO MOLEN BATADORESS GAMING",
-      "image": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap1.png",
-      "category": "Bus",
-      "link_mods": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap1.bussidmod",
+      "title": "HINO MOLEN BATADORESS",
+      "image": "https://enterin.id/wp-content/uploads/2023/10/download-mod-truck-hino-molen-semen.png",
+      "category": "Truck",
+      "link_mods": "https://bajradevapps.xyz/asmatkariwari/Trucksid/modTrucksidtruckmolenlengkap/modTrucksidtruckmolenlengkap1.Trucksidmod",
       "name_livery": "LIVERY HINO MOLEN BATADORESS GAMING",
-      "link_livery": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap1.png",
+      "link_livery": "https://bajradevapps.xyz/asmatkariwari/Trucksid/modTrucksidtruckmolenlengkap/modTrucksidtruckmolenlengkap1.png",
       "name_livery2": "null",
       "link_livery2": "null"
     },
     {
-      "title": "CANTER MOLEN  MIXER  CUSTOM 17 MERAH",
-      "image": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap2.png",
-      "category": "Bus",
-      "link_mods": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap1.bussidmod",
-      "name_livery": "CANTER MOLEN  MIXER  CUSTOM 17 MERAH",
-      "link_livery": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap2.png",
+      "title": "CANTER MOLEN MERAH",
+      "image": "https://modbussidterbaru.com/wp-content/uploads/2023/11/Download-Mod-Bussid-Truck-Hino-Molen-Besar-Full-Anim.png",
+      "category": "Truck",
+      "link_mods": "https://bajradevapps.xyz/asmatkariwari/Trucksid/modTrucksidtruckmolenlengkap/modTrucksidtruckmolenlengkap1.Trucksidmod",
+      "name_livery": "CANTER MOLEN MIXER CUSTOM 17 MERAH",
+      "link_livery": "https://bajradevapps.xyz/asmatkariwari/Trucksid/modTrucksidtruckmolenlengkap/modTrucksidtruckmolenlengkap2.png",
       "name_livery2": "null",
       "link_livery2": "null"
     },
     {
-      "title": "CANTER MOLEN  MIXER  CUSTOM 17 PUTIH",
-      "image": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap3.png",
-      "category": "Bus",
-      "link_mods": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap1.bussidmod",
-      "name_livery": "CANTER MOLEN  MIXER  CUSTOM 17 PUTIH",
-      "link_livery": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap3.png",
+      "title": "CANTER MOLEN PUTIH",
+      "image": "https://bajradevapps.xyz/asmatkariwari/Trucksid/modTrucksidtruckmolenlengkap/modTrucksidtruckmolenlengkap3.png",
+      "category": "Truck",
+      "link_mods": "https://bajradevapps.xyz/asmatkariwari/Trucksid/modTrucksidtruckmolenlengkap/modTrucksidtruckmolenlengkap1.Trucksidmod",
+      "name_livery": "CANTER MOLEN MIXER CUSTOM 17 PUTIH",
+      "link_livery": "https://bajradevapps.xyz/asmatkariwari/Trucksid/modTrucksidtruckmolenlengkap/modTrucksidtruckmolenlengkap3.png",
       "name_livery2": "null",
       "link_livery2": "null"
     },
     {
-      "title": "CANTER MOLEN  MIXER  CUSTOM 17 HIJAU",
-      "image": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap4.jpg",
-      "category": "Bus",
-      "link_mods": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap2.bussidmod",
-      "name_livery": "CANTER MOLEN  MIXER  CUSTOM 17 HIJAU",
-      "link_livery": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap4.jpg",
+      "title": "CANTER MOLEN HIJAU",
+      "image": "https://1.bp.blogspot.com/-gwDUGc_az8U/XPR7_8ZloMI/AAAAAAAAFKg/O51a8zfQ97sBRGCUS3XYkCpimNRf7TfZwCLcBGAs/s1600/Screenshot-19-06-03-06-59-56.jpeg",
+      "category": "Truck",
+      "link_mods": "https://bajradevapps.xyz/asmatkariwari/Trucksid/modTrucksidtruckmolenlengkap/modTrucksidtruckmolenlengkap2.Trucksidmod",
+      "name_livery": "CANTER MOLEN  MIXER CUSTOM 17 HIJAU",
+      "link_livery": "https://bajradevapps.xyz/asmatkariwari/Trucksid/modTrucksidtruckmolenlengkap/modTrucksidtruckmolenlengkap4.jpg",
       "name_livery2": "null",
       "link_livery2": "null"
     },
     {
-      "title": "CANTER MOLEN  MIXER  CUSTOM 17 KUNING",
-      "image": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap5.png",
-      "category": "Bus",
-      "link_mods": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap2.bussidmod",
-      "name_livery": "CANTER MOLEN  MIXER  CUSTOM 17 KUNING",
-      "link_livery": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap5.png",
+      "title": "CANTER MOLEN KUNING",
+      "image": "https://bajradevapps.xyz/asmatkariwari/Trucksid/modTrucksidtruckmolenlengkap/modTrucksidtruckmolenlengkap5.png",
+      "category": "Truck",
+      "link_mods": "https://bajradevapps.xyz/asmatkariwari/Trucksid/modTrucksidtruckmolenlengkap/modTrucksidtruckmolenlengkap2.Trucksidmod",
+      "name_livery": "CANTER MOLEN  MIXER CUSTOM 17 KUNING",
+      "link_livery": "https://bajradevapps.xyz/asmatkariwari/Trucksid/modTrucksidtruckmolenlengkap/modTrucksidtruckmolenlengkap5.png",
       "name_livery2": "null",
       "link_livery2": "null"
-    }
+    },
+	{
+	  "title": "Fuso Fighter Sumatra 01",
+	  "image": "https://iili.io/Ht2CKMv.jpg",
+	  "category": "Truck",
+      "link_mods": "https://rame1.maybusid.my.id/mod/truk/Fuso_FighterSumatra.bussidmod",
+	  "name_livery": "Fuso Fighter liv",
+      "link_livery": "https://rame1.maybusid.my.id/mod/liv/sulPutih.png"
+	}  
   ],
   "Audio": [
     {
       "title_mp3": "Telolet Basuri V3 1",
       "name": "Basuri V3",
-      "url_mp3": "https://bajradevapps.xyz/asmatkariwari/bussid/trucksawitmuatantumpah/trucksawitmuatantumpah1.mp3"
+      "url_mp3": "https://bajradevapps.xyz/asmatkariwari/Trucksid/trucksawitmuatantumpah/trucksawitmuatantumpah1.mp3"
     },
     {
       "title_mp3": "Telolet Basuri V3 2",
       "name": "Basuri V3",
-      "url_mp3": "https://bajradevapps.xyz/asmatkariwari/bussid/trucksawitmuatantumpah/trucksawitmuatantumpah1.mp3"
+      "url_mp3": "https://bajradevapps.xyz/asmatkariwari/Trucksid/trucksawitmuatantumpah/trucksawitmuatantumpah1.mp3"
     },
     {
       "title_mp3": "Telolet Basuri V3 3",
       "name": "Basuri V3",
-      "url_mp3": "https://bajradevapps.xyz/asmatkariwari/bussid/trucksawitmuatantumpah/trucksawitmuatantumpah1.mp3"
+      "url_mp3": "https://bajradevapps.xyz/asmatkariwari/Trucksid/trucksawitmuatantumpah/trucksawitmuatantumpah1.mp3"
     }
   ],
   "Radio": [
