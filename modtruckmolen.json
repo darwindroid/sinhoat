@@ -27,6 +27,16 @@
   ],
 "Maps": [
     {
+      "name_map": "Map Terminal Poris - Pemalang by Fergiawan",
+      "view_map": "https://iili.io/HY9jXpt.md.jpg",
+      "map_url": "https://rame1.maybusid.my.id/mod/map/Start%20Dari%20Poris.bussidmod"
+    },
+    {
+      "name_map": "Map Pemalang - Poris by Fergiawan",
+      "view_map": "https://iili.io/HY9WHqQ.md.jpg",
+      "map_url": "https://rame1.maybusid.my.id/mod/map/Start%20Dari%20Pemalang.bussidmod"
+    },
+    {
       "name_map": "Tol Trans Jawa v2 by X Play Kembar",
       "view_map": "https://bajradevapps.xyz/asmatkariwari/bussid/trucksawitmuatantumpah/trucksawitmuatantumpah1.jpg",
       "map_url": "https://bajradevapps.xyz/asmatkariwari/bussid/trucksawitmuatantumpah/trucksawitmuatantumpah1.bussidmod"
@@ -39,8 +49,8 @@
   ],
   "Mods": [
      {
-      "title": "LIVERY HINO MOLEN BATADORESS GAMING",
-      "image": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap1.png",
+      "title": "HINO MOLEN BATADORESS",
+      "image": "https://enterin.id/wp-content/uploads/2023/10/download-mod-truck-hino-molen-semen.png",
       "category": "Bus",
       "link_mods": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap1.bussidmod",
       "name_livery": "LIVERY HINO MOLEN BATADORESS GAMING",
@@ -49,9 +59,9 @@
       "link_livery2": "null"
     },
     {
-      "title": "CANTER MOLEN  MIXER  CUSTOM 17 MERAH",
-      "image": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap2.png",
-      "category": "Bus",
+      "title": "CANTER MOLEN MERAH",
+      "image": "https://modbussidterbaru.com/wp-content/uploads/2023/11/Download-Mod-Bussid-Truck-Hino-Molen-Besar-Full-Anim.png",
+      "category": "Truck",
       "link_mods": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap1.bussidmod",
       "name_livery": "CANTER MOLEN  MIXER  CUSTOM 17 MERAH",
       "link_livery": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap2.png",
@@ -59,9 +69,9 @@
       "link_livery2": "null"
     },
     {
-      "title": "CANTER MOLEN  MIXER  CUSTOM 17 PUTIH",
+      "title": "CANTER MOLEN PUTIH",
       "image": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap3.png",
-      "category": "Bus",
+      "category": "Truck",
       "link_mods": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap1.bussidmod",
       "name_livery": "CANTER MOLEN  MIXER  CUSTOM 17 PUTIH",
       "link_livery": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap3.png",
@@ -69,9 +79,9 @@
       "link_livery2": "null"
     },
     {
-      "title": "CANTER MOLEN  MIXER  CUSTOM 17 HIJAU",
+      "title": "CANTER MOLEN HIJAU",
       "image": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap4.jpg",
-      "category": "Bus",
+      "category": "Truck",
       "link_mods": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap2.bussidmod",
       "name_livery": "CANTER MOLEN  MIXER  CUSTOM 17 HIJAU",
       "link_livery": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap4.jpg",
@@ -79,15 +89,23 @@
       "link_livery2": "null"
     },
     {
-      "title": "CANTER MOLEN  MIXER  CUSTOM 17 KUNING",
+      "title": "CANTER MOLEN KUNING",
       "image": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap5.png",
-      "category": "Bus",
+      "category": "Truck",
       "link_mods": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap2.bussidmod",
       "name_livery": "CANTER MOLEN  MIXER  CUSTOM 17 KUNING",
       "link_livery": "https://bajradevapps.xyz/asmatkariwari/bussid/modbussidtruckmolenlengkap/modbussidtruckmolenlengkap5.png",
       "name_livery2": "null",
       "link_livery2": "null"
-    }
+    },
+    {
+       "title": "Fuso Fighter Sumatra 01",
+       "image": "https://iili.io/Ht2CKMv.jpg",
+       "category": "Truck",
+       "link_mods": "https://rame1.maybusid.my.id/mod/truk/Fuso_FighterSumatra.bussidmod",
+       "name_livery": "Fuso Fighter liv",
+      "link_livery": "https://rame1.maybusid.my.id/mod/liv/sulPutih.png"
+	}  
   ],
   "Audio": [
     {
