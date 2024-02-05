@@ -1,8 +1,8 @@
 {"Ads": 
   [
     {
-      "select_main_ads": "APPLOVIN-D",
-      "select_backup_ads":"FACEBOOK",
+      "select_main_ads": "APPLOVIN-M",
+      "select_backup_ads":"STARTAPP",
       "main_ads_banner": "2208a9d506ffe383",
       "main_ads_intertitial":"c6217582fc14c67a",
       "backup_ads_banner":"347352844603694_347353434603635",
@@ -11,8 +11,8 @@
       "open_ads_alien":"NULL",
       "open_ads_max":"1",
       "interval_intertitial": 1,
-      "initialize_sdk":"1652630d5",
-      "initialize_sdk_backup_ads":"1652630d5",
+      "initialize_sdk":"201255646",
+      "initialize_sdk_backup_ads":"201255646",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
       "high_paying_keyword_3": "",
